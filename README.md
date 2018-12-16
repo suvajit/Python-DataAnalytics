@@ -10,8 +10,8 @@ This tutorial is part of [SCOUT Data Science Master Class](www.scoutlive.in).
 
 ### Topics
 
-* Introduction ot Pandas
-* Panda - Series
+* [Introduction to Pandas](https://github.com/suvajit/Python-DataAnalytics/blob/master/Pandas-Introduction.ipynb)
+* [Panda - Series] (https://github.com/suvajit/Python-DataAnalytics/blob/master/Pandas%20-%20Series.ipynb)
 * Panda - DataFrame
 * Panda - Panel
 * Panda Usecases
