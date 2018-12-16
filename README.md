@@ -5,6 +5,7 @@
 This is tutorial on Data Analaytics with Python using Pandas. 
 The tutorial covers introductory lessons on Pandas, how to use DataFrame effectively and working Tips & Tricks.
 
+This tutorial is part of [SCOUT Data Science Master Class](www.scoutlive.in).
 
 
 ### Topics
@@ -33,4 +34,4 @@ Few good resources on Pandas :
 
 For any suggestions, inputs, feedback :
 
-email to jeet_sen@yahoo.co.in[mailto:jeet_sen@yahoo.co.in]
+email to [jeet_sen@yahoo.co.in](mailto:jeet_sen@yahoo.co.in)
